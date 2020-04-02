@@ -52,7 +52,7 @@
                   <p><strong>Publish Date :</strong> {{book.volumeInfo.publishedDate}}</p>
                   <p><strong>Page Count :</strong> {{book.volumeInfo.pageCount}}</p>
                   <p><strong>ISBN :</strong> {{book.volumeInfo.industryIdentifiers.identifier}}</p>
-                  <p><strong>Retail Price :</strong> {{book.saleInfo.retailPrice.amount}}</p>
+                  <p><strong>Retail Price :</strong> {{book.saleInfo.retailPrice.amount |currency: 'ZAR'}}</p>
                 </div>
             </div>
             <div class="row">
