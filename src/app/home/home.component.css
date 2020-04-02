@@ -1,0 +1,14 @@
+.card:hover{
+    border-radius: 4px;
+    border-color: purple;
+}
+.card{
+    font-size: smaller;
+    background-color: transparent;
+    color: white;
+    border-color: green;
+
+}
+.card-img-top{
+    height: 150px !important;
+}

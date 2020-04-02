@@ -1,0 +1,73 @@
+<div class="container">
+ <h2></h2>
+
+ <div class="row">
+     <div class="col-md-12">
+        <!-- <img src="assets/images/Book2.jpg" style="height: 350px !important; min-width: 100% !important;"> -->
+     </div>
+ </div>
+ <div class="row">
+  <div class="col-md-12">
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" [(ngModel)]="searchParams" placeholder="Serach Book By Title" aria-label="Recipient's username" aria-describedby="button-addon2">
+      <div class="input-group-append">
+        <button class="btn btn-outline-success"  (click)="checkSearch()" type="button" id="button-addon2">Search</button>
+      </div>
+    </div>
+   </div>
+ </div>
+
+ <h2 class="text-center" style="color: rgb(90, 86, 86);" ><strong>Recently Viewed Books</strong> </h2> 
+ <div class="row mt-2" >
+     <div class="col-md-3 mt-2" *ngFor="let book of books">
+
+       <div class="card">
+           <img class="card-img-top" src="{{book.volumeInfo.imageLinks.smallThumbnail}}" alt="">
+           <div class="card-body">
+               <h4 class="card-title"></h4>
+               <p class="card-text" style="align-items: center !important;">{{book.volumeInfo.title}}</p>
+               <button type="button"  class="btn btn-success" (click)="onSelect(book.id)"  style="background-color: #0b0d0f !important;"  data-toggle="modal" data-target="#modelId">View More</button>
+           </div>
+       </div>
+    
+     <div *ngIf="bookId==book.id">
+      <!-- Modal -->
+      <div class="modal fade" id="modelId"  tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title"><strong>{{book.volumeInfo.title}}</strong></h5>
+                <button type="button" class="close-success" style="color: red !important; border-color: green;" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body " style="background-color: #070809 !important; color: white !important;">
+              <div class="row">
+                <div class="col-md-4">
+                  <img src="{{book.volumeInfo.imageLinks.thumbnail}}" class="img-fluid" style="max-height:400px !important ;" alt="">
+                </div>
+                <div class="col-md-7">
+                  <p><strong>Authors</strong> : {{book.volumeInfo.authors}}</p>
+                  <p><strong>Publisher :</strong> {{book.volumeInfo.publisher}}</p>
+                  <p><strong>Publish Date :</strong> {{book.volumeInfo.publishedDate}}</p>
+                  <p><strong>Page Count :</strong> {{book.volumeInfo.pageCount}}</p>
+                  <p><strong>ISBN :</strong> {{book.volumeInfo.industryIdentifiers.identifier}}</p>
+                  <p><strong>Retail Price :</strong> {{book.saleInfo.retailPrice.amount}}</p>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                 <p><strong>Description :</strong> {{book.volumeInfo.description}}</p>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-success" style="background: red;" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div> 
+
+      </div>
+    </div>
+ </div>
+</div>

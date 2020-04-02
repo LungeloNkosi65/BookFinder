@@ -1,0 +1,23 @@
+<div class="container">
+    <div class="col">
+        <div *ngFor="let book of books">
+                <div *ngIf="bookId==book.id">
+                <div class="media" style="color: white !important;">
+                    <a class="d-flex" href="#">
+                        <img src="{{book.volumeInfo.imageLinks.thumbnail}}" alt="">
+                    </a>
+                    <div class="media-body">
+                        <h5>{{book.volumeInfo.title}}</h5>
+                        <p>Authors: {{book.volumeInfo.authors}}</p>
+                        <p>Publisher: {{book.volumeInfo.publisher}}</p>
+                        <p>Publish Date: {{book.volumeInfo.publishedDate}}</p>
+                        <p>Description: {{book.volumeInfo.description}}</p>
+                    </div>
+                </div>
+    
+            </div>
+            <!-- bookId -->
+        
+        </div>
+    </div>
+</div>
