@@ -66,30 +66,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
     /*! @angular/router */
     "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
-    /* harmony import */
 
-
-    var _home_home_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
-    /*! ./home/home.component */
-    "./src/app/home/home.component.ts");
-    /* harmony import */
-
-
-    var _book_detail_book_detail_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
-    /*! ./book-detail/book-detail.component */
-    "./src/app/book-detail/book-detail.component.ts");
-
-    var routes = [{
-      path: 'home',
-      component: _home_home_component__WEBPACK_IMPORTED_MODULE_2__["HomeComponent"]
-    }, {
-      path: '',
-      redirectTo: 'home',
-      pathMatch: 'full'
-    }, {
-      path: 'details/:id',
-      component: _book_detail_book_detail_component__WEBPACK_IMPORTED_MODULE_3__["BookDetailComponent"]
-    }];
+    var routes = [];
 
     var AppRoutingModule = function AppRoutingModule() {
       _classCallCheck(this, AppRoutingModule);
@@ -167,9 +145,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
-    /*! @angular/router */
-    "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
+    var _home_home_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
+    /*! ./home/home.component */
+    "./src/app/home/home.component.ts");
 
     var AppComponent = function AppComponent() {
       _classCallCheck(this, AppComponent);
@@ -213,14 +191,14 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](9, "app-carousel");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "router-outlet");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "app-home");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
       },
-      directives: [_nav_bar_nav_bar_component__WEBPACK_IMPORTED_MODULE_1__["NavBarComponent"], _carousel_carousel_component__WEBPACK_IMPORTED_MODULE_2__["CarouselComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterOutlet"]],
+      directives: [_nav_bar_nav_bar_component__WEBPACK_IMPORTED_MODULE_1__["NavBarComponent"], _carousel_carousel_component__WEBPACK_IMPORTED_MODULE_2__["CarouselComponent"], _home_home_component__WEBPACK_IMPORTED_MODULE_3__["HomeComponent"]],
       styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuY3NzIn0= */", "html[_ngcontent-%COMP%]{\n       background-color: 0b0d0f !important;\n     }"]
     });
     /*@__PURE__*/
