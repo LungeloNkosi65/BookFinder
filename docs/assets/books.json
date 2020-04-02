@@ -1,0 +1,800 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2332,
+  "items": [
+   {
+    "kind": "books#volume",
+    "id": "0XYA1SlYNeMC",
+    "etag": "mYfqdW7pDJQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0XYA1SlYNeMC",
+    "volumeInfo": {
+     "title": "The Great Gatsby",
+     "authors": [
+      "F. Scott Fitzgerald",
+      "Peter Joucla"
+     ],
+     "publisher": "Oberon Books",
+     "publishedDate": "2012-06-26",
+     "description": "So we beat on, boats against the current, borne back ceaselessly into the past. ‘F. Scott Fitzgerald’s novel The Great Gatsby was first published on April 10, 1925. Set on Long Island’s North Shore and in New York City during the summer of 1922, it is the story of an attractive young man, hopelessly in love, who, having worked so hard to improve himself so he can win back the woman he loves, finds himself in a world where money has replaced humility and despair has replaced hope. For me, the novel is a comment on the values and cynicism of east coast America almost a hundred years ago, a time when a section of society had suddenly become very wealthy and the American Dream was for most, nothing more than the mere pursuit of money.’ Peter Joucla ‘Peter Joucla’s surprisingly clear-eyed adaptation cuts to the heart of Fitzgerald’s text while preserving a very decent amount of it.’ 4 stars –Evening Standard ‘Evoking all the glamour and atmosphere of the roaring twenties, Wilton’s brings Gatsby to glorious, all-singing, all-dancing life (jazz hands optional). A must-see’ – welovethisbook.com ‘An unashamed nostalgia party for a world we never knew... This is a show that majors in fun; and it’s no surprise to see it’s a cult hit.’ Telegraph",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9781849435284"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "1849435286"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 96,
+     "printType": "BOOK",
+     "categories": [
+      "Drama"
+     ],
+     "averageRating": 3.5,
+     "ratingsCount": 3003,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "0.7.5.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=0XYA1SlYNeMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=0XYA1SlYNeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=0XYA1SlYNeMC&printsec=frontcover&dq=greatGatsby&hl=&cd=1&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=0XYA1SlYNeMC&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0XYA1SlYNeMC"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 214.0,
+      "currencyCode": "ZAR"
+     },
+     "retailPrice": {
+      "amount": 145.52,
+      "currencyCode": "ZAR"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=0XYA1SlYNeMC&rdid=book-0XYA1SlYNeMC&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 2.14E8,
+        "currencyCode": "ZAR"
+       },
+       "retailPrice": {
+        "amountInMicros": 1.4552E8,
+        "currencyCode": "ZAR"
+       }
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/The_Great_Gatsby-sample-epub.acsm?id=0XYA1SlYNeMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/The_Great_Gatsby-sample-pdf.acsm?id=0XYA1SlYNeMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=0XYA1SlYNeMC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "A must-see’ – welovethisbook.com ‘An unashamed nostalgia party for a world we never knew... This is a show that majors in fun; and it’s no surprise to see it’s a cult hit.’ Telegraph"
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "aKFjDwAAQBAJ",
+    "etag": "CiZQ8LT6Nh4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aKFjDwAAQBAJ",
+    "volumeInfo": {
+     "title": "The Great Gatsby (Unabridged)",
+     "authors": [
+      "F. Scott Fitzgerald"
+     ],
+     "publisher": "e-artnow",
+     "publishedDate": "2013-05-01",
+     "description": "This carefully crafted ebook: \" The Great Gatsby (Unabridged)\" is formatted for your eReader with a functional and detailed table of contents. \"The Great Gatsby\" is a novel by the American author F. Scott Fitzgerald. The story takes place in 1922, during the Roaring Twenties, a time of prosperity in the United States after World War I. The book received critical acclaim and is generally considered Fitzgerald's best work. It is also widely regarded as a \"Great American Novel\" and a literary classic, capturing the essence of an era. The Modern Library named it the second best English language novel of the 20th century. The novel takes place following the First World War. American society enjoyed prosperity during the \"roaring\" 1920s as the economy soared. At the same time, Prohibition, the ban on the sale and manufacture of alcohol as mandated by the Eighteenth Amendment, made millionaires out of bootleggers...",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9788074844904"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "8074844900"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 250,
+     "printType": "BOOK",
+     "categories": [
+      "Fiction"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.3.2.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=aKFjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=aKFjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=aKFjDwAAQBAJ&printsec=frontcover&dq=greatGatsby&hl=&cd=2&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=aKFjDwAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aKFjDwAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 9.67,
+      "currencyCode": "ZAR"
+     },
+     "retailPrice": {
+      "amount": 9.67,
+      "currencyCode": "ZAR"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=aKFjDwAAQBAJ&rdid=book-aKFjDwAAQBAJ&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 9670000.0,
+        "currencyCode": "ZAR"
+       },
+       "retailPrice": {
+        "amountInMicros": 9670000.0,
+        "currencyCode": "ZAR"
+       }
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/The_Great_Gatsby_Unabridged-sample-epub.acsm?id=aKFjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/The_Great_Gatsby_Unabridged-sample-pdf.acsm?id=aKFjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=aKFjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "The story takes place in 1922, during the Roaring Twenties, a time of prosperity in the United States after World War I. The book received critical acclaim and is generally considered Fitzgerald&#39;s best work."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "klMWVELASj0C",
+    "etag": "75qDDdxRkF0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/klMWVELASj0C",
+    "volumeInfo": {
+     "title": "F. Scott Fitzgerald's the Great Gatsby",
+     "authors": [
+      "Harold Bloom"
+     ],
+     "publisher": "Infobase Publishing",
+     "publishedDate": "2010",
+     "description": "Presents a series of critical essays discussing the structure, themes, and subject matter of Fitzgerald's story of the love between wealthy Jay Gatsby and the beautiful Daisy Buchanan.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9781438132761"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "143813276X"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 191,
+     "printType": "BOOK",
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.0.1.0.preview.3",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=klMWVELASj0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=klMWVELASj0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=klMWVELASj0C&printsec=frontcover&dq=greatGatsby&hl=&cd=3&source=gbs_api",
+     "infoLink": "http://books.google.co.za/books?id=klMWVELASj0C&dq=greatGatsby&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/F_Scott_Fitzgerald_s_the_Great_Gatsby.html?hl=&id=klMWVELASj0C"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/F_Scott_Fitzgerald_s_the_Great_Gatsby-sample-epub.acsm?id=klMWVELASj0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/F_Scott_Fitzgerald_s_the_Great_Gatsby-sample-pdf.acsm?id=klMWVELASj0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=klMWVELASj0C&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Presents a series of critical essays discussing the structure, themes, and subject matter of Fitzgerald&#39;s story of the love between wealthy Jay Gatsby and the beautiful Daisy Buchanan."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "adjCx-wnhWsC",
+    "etag": "3Ke9NRDUiH0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/adjCx-wnhWsC",
+    "volumeInfo": {
+     "title": "The Great Gatsby",
+     "authors": [
+      "Harold Bloom"
+     ],
+     "publisher": "Infobase Publishing",
+     "publishedDate": "2006",
+     "description": "Discusses the characters, plot, and writing of The great Gatsby by F. Scott Fitzgerald. Includes critical essays on the novel and a brief biography of the author.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9781438114545"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "1438114540"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 145,
+     "printType": "BOOK",
+     "categories": [
+      "Electronic books"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "0.0.1.0.preview.3",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=adjCx-wnhWsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=adjCx-wnhWsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=adjCx-wnhWsC&printsec=frontcover&dq=greatGatsby&hl=&cd=4&source=gbs_api",
+     "infoLink": "http://books.google.co.za/books?id=adjCx-wnhWsC&dq=greatGatsby&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby.html?hl=&id=adjCx-wnhWsC"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/The_Great_Gatsby-sample-epub.acsm?id=adjCx-wnhWsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/The_Great_Gatsby-sample-pdf.acsm?id=adjCx-wnhWsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=adjCx-wnhWsC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Presents critical essays on F. Scott Fitzgerald&#39;s &quot;The Great Gatsby&quot; and includes a chronology, a bibliography, and an introduction by critic Harold Bloom."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "7ZbDoQEACAAJ",
+    "etag": "bzIR+ocYONE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7ZbDoQEACAAJ",
+    "volumeInfo": {
+     "title": "So We Read On",
+     "subtitle": "How The Great Gatsby Came to Be and Why It Endures",
+     "authors": [
+      "Maureen Corrigan"
+     ],
+     "publisher": "Back Bay Books",
+     "publishedDate": "2015-05-12",
+     "description": "\"Maureen Corrigan has produced a minor miracle: a book about The Great Gatsby that stands up to Gatsby itself\" --Michael Cunningham. It's a revered classic and a rite of passage in the reading lives of millions. But how well do we really know The Great Gatsby? As \"Fresh Air\" book critic Maureen Corrigan points out, many of us first read Fitzgerald's masterpiece when we were too young to comprehend its power. Offering a fresh perspective on Gatsby, SO WE READ ON takes readers into archives, high school classrooms, and onto the Long Island Sound to explore the novel's hidden depths, revealing its surprising debt to noir, its rocky path to recognition as a \"classic,\" and its profound commentaries on race, class, and gender. With rigor, wit, and infectious enthusiasm, Corrigan inspires us to re-experience Gatsby and, along the way, spins a fascinating story of her own.Maureen Corrigan is the book critic for NPR's \"Fresh Air,\" the Critic-in-Residence at Georgetown University, and winner of the Edgar Award for Criticism. She is the author of Leave Me Alone, I'm Reading (Random House, 2005).",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0316230065"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780316230063"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "pageCount": 368,
+     "printType": "BOOK",
+     "categories": [
+      "Literary Criticism"
+     ],
+     "averageRating": 4.0,
+     "ratingsCount": 5,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=7ZbDoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=7ZbDoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=7ZbDoQEACAAJ&dq=greatGatsby&hl=&cd=5&source=gbs_api",
+     "infoLink": "http://books.google.co.za/books?id=7ZbDoQEACAAJ&dq=greatGatsby&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/So_We_Read_On.html?hl=&id=7ZbDoQEACAAJ"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "NO_PAGES",
+     "embeddable": false,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=7ZbDoQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "NONE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Offering a fresh perspective on Gatsby, SO WE READ ON takes readers into archives, high school classrooms, and onto the Long Island Sound to explore the novel&#39;s hidden depths, revealing its surprising debt to noir, its rocky path to ..."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "uF7NwAEACAAJ",
+    "etag": "9vEUMTH0JU8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/uF7NwAEACAAJ",
+    "volumeInfo": {
+     "title": "The Great Gatsby (Arcadia Classics)",
+     "authors": [
+      "F. Scott Fitzgerald"
+     ],
+     "publishedDate": "2015",
+     "description": "The Great Gatsby is a novel that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922. Nick Carraway, a Yale graduate and World War I veteran from the Midwest - who serves as the novel's narrator - takes a job in New York as a bond salesman. He rents a small house on Long Island, in the village of West Egg, next door to the lavish mansion of Jay Gatsby who holds extravagant parties. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession for the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald's magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "8892510061"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9788892510067"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "printType": "BOOK",
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=uF7NwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=uF7NwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=uF7NwAEACAAJ&dq=greatGatsby&hl=&cd=6&source=gbs_api",
+     "infoLink": "http://books.google.co.za/books?id=uF7NwAEACAAJ&dq=greatGatsby&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby_Arcadia_Classics.html?hl=&id=uF7NwAEACAAJ"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "NO_PAGES",
+     "embeddable": false,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=uF7NwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "NONE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession for the beautiful former debutante Daisy Buchanan."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "aGpfLHWDTDAC",
+    "etag": "YAw882rfws8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aGpfLHWDTDAC",
+    "volumeInfo": {
+     "title": "Careless People",
+     "subtitle": "Murder, Mayhem and the Invention of The Great Gatsby",
+     "authors": [
+      "Sarah Churchwell"
+     ],
+     "publisher": "Hachette UK",
+     "publishedDate": "2013-06-06",
+     "description": "Ebook edition includes full text of The Great Gatsby by F. Scott Fitzgerald. Since its publication in 1925, The Great Gatsby has become one of the world's best-loved books. Careless People tells the true story behind F. Scott Fitzgerald's masterpiece, exploring in newly rich detail its relation to the extravagant, scandalous, and chaotic world in which the author lived. With wit and insight, Sarah Churchwell traces the genesis of a masterpiece, mapping where fiction comes from, and how it takes shape in the mind of a genius. Careless People tells the extraordinary tale of how F. Scott Fitzgerald created a classic and in the process discovered modern America.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9780748129294"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "0748129294"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": false
+     },
+     "pageCount": 448,
+     "printType": "BOOK",
+     "categories": [
+      "Literary Criticism"
+     ],
+     "averageRating": 3.5,
+     "ratingsCount": 5,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.7.8.0.preview.2",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=aGpfLHWDTDAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=aGpfLHWDTDAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=aGpfLHWDTDAC&printsec=frontcover&dq=greatGatsby&hl=&cd=7&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=aGpfLHWDTDAC&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aGpfLHWDTDAC"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 213.52,
+      "currencyCode": "ZAR"
+     },
+     "retailPrice": {
+      "amount": 145.19,
+      "currencyCode": "ZAR"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=aGpfLHWDTDAC&rdid=book-aGpfLHWDTDAC&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 2.1352E8,
+        "currencyCode": "ZAR"
+       },
+       "retailPrice": {
+        "amountInMicros": 1.4519E8,
+        "currencyCode": "ZAR"
+       }
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.za/books/download/Careless_People-sample-epub.acsm?id=aGpfLHWDTDAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=aGpfLHWDTDAC&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Careless People tells the true story behind F. Scott Fitzgerald&#39;s masterpiece, exploring in newly rich detail its relation to the extravagant, scandalous, and chaotic world in which the author lived."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "WvvyAAAAMAAJ",
+    "etag": "puOX2ZQyPcM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/WvvyAAAAMAAJ",
+    "volumeInfo": {
+     "title": "F. Scott Fitzgerald, The great Gatsby",
+     "authors": [
+      "Kathleen Parkinson"
+     ],
+     "publisher": "ePenguin",
+     "publishedDate": "1988-10-27",
+     "description": "Kathleen Parkinson places this brilliant and bitter satire on the moral failure of the Jazz Age firmly in the context of Scott Fitzgerald's life and times. She explores the intricate patterns of the novel, its chronology, locations, imagery and use of colour, and how these contribute to a seamless interplay of social comedy and symbolic landscape. She devotes a perceptive chapter to Fitzgerald's controversial portrayal of women and goes on to discuss how the central characters, Gatsby and Nick Carraway, embody and confront the dualism inherent in the American dream.",
+     "industryIdentifiers": [
+      {
+       "type": "OTHER",
+       "identifier": "IND:30000039210426"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "pageCount": 144,
+     "printType": "BOOK",
+     "categories": [
+      "Fiction"
+     ],
+     "averageRating": 2.5,
+     "ratingsCount": 3,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "1.1.1.0.preview.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=WvvyAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=WvvyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=WvvyAAAAMAAJ&q=greatGatsby&dq=greatGatsby&hl=&cd=8&source=gbs_api",
+     "infoLink": "http://books.google.co.za/books?id=WvvyAAAAMAAJ&dq=greatGatsby&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/F_Scott_Fitzgerald_The_great_Gatsby.html?hl=&id=WvvyAAAAMAAJ"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "NO_PAGES",
+     "embeddable": false,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=WvvyAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "NONE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "She explores the intricate patterns of the novel, its chronology, locations, imagery and use of colour, and how these contribute to a seamless interplay of social comedy and symbolic landscape."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "DiszDwAAQBAJ",
+    "etag": "M7eSP0BEV8M",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DiszDwAAQBAJ",
+    "volumeInfo": {
+     "title": "Sing, Unburied, Sing",
+     "subtitle": "A Novel",
+     "authors": [
+      "Jesmyn Ward"
+     ],
+     "publisher": "Simon and Schuster",
+     "publishedDate": "2017-09-05",
+     "description": "\"A searing and profound Southern odyssey through Mississippi's past and present\"--",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9781501126062"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "1501126067"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "pageCount": 289,
+     "printType": "BOOK",
+     "categories": [
+      "Fiction"
+     ],
+     "averageRating": 4.0,
+     "ratingsCount": 84,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.3.0.0.preview.0",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=DiszDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=DiszDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=DiszDwAAQBAJ&printsec=frontcover&dq=greatGatsby&hl=&cd=9&source=gbs_api",
+     "infoLink": "http://books.google.co.za/books?id=DiszDwAAQBAJ&dq=greatGatsby&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Sing_Unburied_Sing.html?hl=&id=DiszDwAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=DiszDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "&quot;A searing and profound Southern odyssey through Mississippi&#39;s past and present&quot;--"
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "bxT-B2nw-D8C",
+    "etag": "eFUuK4M6pqU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/bxT-B2nw-D8C",
+    "volumeInfo": {
+     "title": "New Essays on The Great Gatsby",
+     "authors": [
+      "Matthew J. Bruccoli",
+      "Professor Matthew J Bruccoli",
+      "Emory Elliot",
+      "Bruccoli Matthew J."
+     ],
+     "publisher": "Cambridge University Press",
+     "publishedDate": "1985-10-31",
+     "description": "Describes the novel's publication history and initial critical reception, and discusses Gatsby's themes, style, and place in American literature",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "0521319633"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9780521319638"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "pageCount": 120,
+     "printType": "BOOK",
+     "categories": [
+      "Literary Criticism"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "1.1.2.0.preview.1",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=bxT-B2nw-D8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=bxT-B2nw-D8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.co.za/books?id=bxT-B2nw-D8C&printsec=frontcover&dq=greatGatsby&hl=&cd=10&source=gbs_api",
+     "infoLink": "http://books.google.co.za/books?id=bxT-B2nw-D8C&dq=greatGatsby&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/New_Essays_on_The_Great_Gatsby.html?hl=&id=bxT-B2nw-D8C"
+    },
+    "saleInfo": {
+     "country": "ZA",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "ZA",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=bxT-B2nw-D8C&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Describes the novel&#39;s publication history and initial critical reception, and discusses Gatsby&#39;s themes, style, and place in American literature Provides students of American Literature with introductory critical guides to the great works ..."
+    }
+   }
+  ]
+ }
